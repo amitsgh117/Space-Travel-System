@@ -1,4 +1,4 @@
-# Assignment 1: Space Travel System
+# Space Travel System
 ## _Name: Amit Kumar Singh, Roll no: 190117_
 ## Steps to run:
 * Navigate to the directory containing ```SpaceTravelSystem.cpp```
